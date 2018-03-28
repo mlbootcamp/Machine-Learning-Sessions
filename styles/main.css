@@ -22,6 +22,8 @@ label {
 
 button {
   overflow: visible;
+  border-radius: 50px;
+
 }
 
 button, select {
@@ -47,6 +49,7 @@ textarea {
   max-width: 768px;
   margin: 60px auto;
   position: relative;
+  border-radius: 25px;
 }
 
 form {
@@ -181,6 +184,7 @@ textarea {
   background: none;
   border: solid 2px #474544;
   color: #474544;
+  border-radius: 40px;
   cursor: pointer;
   display: inline-block;
   font-family: 'Helvetica', Arial, sans-serif;
